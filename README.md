@@ -77,8 +77,3 @@ Apache 2.0
 ```shell
 cargo test
 ```
-
-## I'm available for hire
-I'm a freelance developer and looking forward to new challenges.
-
-me@gildedhonour.com | gildedhonour.com
